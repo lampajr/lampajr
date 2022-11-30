@@ -24,7 +24,7 @@
 
 - :zap: In my free time, I love playing sports and pursue some personal projects.
 
-- :mailbox: How to reach me: [![Personal GMail Badge](https://img.shields.io/badge/Personal-blue?style=flat-square&logo=gmail&logoColor=white)](a.lamparelli95@gmail.com) [![Work GMail Badge](https://img.shields.io/badge/work-red?style=flat-square&logo=red-hat&logoColor=white)](andrea.lamparelli@redhat.com)
+- :mailbox: How to reach me: [![Personal GMail Badge](https://img.shields.io/badge/Personal-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:a.lamparelli95@gmail.com) [![Work GMail Badge](https://img.shields.io/badge/work-red?style=flat-square&logo=red-hat&logoColor=white)](mailto:andrea.lamparelli@redhat.com)
 
 ---
 
