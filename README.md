@@ -55,7 +55,7 @@
 
 ### :fire: My Stats :
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <!--
   <a href="https://git.io/streak-stats" align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=lampajr&theme=dark&background=000000" alt="GitHub Streak"/>
