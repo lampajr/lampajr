@@ -51,18 +51,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="40" height="40"/>&nbsp;
 </div>
 
----
+<!-- --- -->
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats :
 
 <div id="badges" align="left">
-  <!--
   <a href="https://git.io/streak-stats" align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=lampajr&theme=dark&background=000000" alt="GitHub Streak"/>
   </a>
-  -->
   
-<!--   <picture>
+  <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=lampajr&show_icons=true&hide_border=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -72,7 +70,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=lampajr&show_icons=true&hide_border=true&theme=transparent" />
-   </picture> -->
+   </picture>
    
    <picture>
     <source 
@@ -85,7 +83,7 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lampajr&show_icons=true&hide_border=true&layout=normal&theme=transparent" />
    </picture>
-</div>
+</div> -->
 
 <!--
 **lampajr/lampajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
