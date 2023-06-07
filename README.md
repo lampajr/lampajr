@@ -62,7 +62,7 @@
   </a>
   -->
   
-  <picture>
+<!--   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=lampajr&show_icons=true&hide_border=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -72,18 +72,18 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=lampajr&show_icons=true&hide_border=true&theme=transparent" />
-   </picture>
+   </picture> -->
    
    <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lampajr&show_icons=true&hide_border=true&layout=compact&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lampajr&show_icons=true&hide_border=true&layout=normal&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lampajr&show_icons=true&hide_border=true&layout=compact&theme=transparent"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lampajr&show_icons=true&hide_border=true&layout=normal&theme=transparent"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lampajr&show_icons=true&hide_border=true&layout=compact&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lampajr&show_icons=true&hide_border=true&layout=normal&theme=transparent" />
    </picture>
 </div>
 
