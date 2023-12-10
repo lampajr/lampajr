@@ -29,7 +29,7 @@
 - :mailbox: How to reach me: [![Personal GMail Badge](https://img.shields.io/badge/Personal-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:a.lamparelli95@gmail.com) [![Work GMail Badge](https://img.shields.io/badge/work-red?style=flat-square&logo=red-hat&logoColor=white)](mailto:andrea.lamparelli@redhat.com)
 
 ---
-
+<!-- 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div id="technologies">
@@ -52,6 +52,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" title="RedHat" alt="RedHat" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="40" height="40"/>&nbsp;
 </div>
+-->
 
 <!-- --- -->
 
