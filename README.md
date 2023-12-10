@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I am a dedicated computer science engineer with a fervent passion for exploring new technologies. Currently, I serve as a software engineer at Red Hat, where I actively contribute to enhancing and optimizing CI/CD processes. Alongside this, I am deeply involved in open source projects, further underscoring my commitment to excellence in software engineering and innovation.
+- 🔭 I am a dedicated computer science engineer with a fervent passion for exploring new technologies. Currently, I work as a software engineer at Red Hat, where I contributed (and still partially contributing) to the [Kiegroup](https://github.com/kiegroup) community and, now, I am actively contributing to the [Opendatahub](https://github.com/opendatahub-io) community. Alongside this, I am deeply involved in open source projects, further underscoring my commitment to excellence in software engineering and innovation.
 
 - :bulb: Creator of [**kiegroup/git-backporting**](https://github.com/kiegroup/git-backporting), a fully configurable command line tool (and GitHub action) that provides capabilities to backport pull requests or merge requests in an automated way.
 
