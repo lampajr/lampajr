@@ -20,9 +20,9 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I am a dedicated computer science engineer with a fervent passion for exploring new technologies. Currently, I work as a software engineer at Red Hat, where I contributed (and still partially contributing) to the [Kiegroup](https://github.com/kiegroup) community and, now, I am actively contributing to the [Opendatahub](https://github.com/opendatahub-io) community. Alongside this, I am deeply involved in open source projects, further underscoring my commitment to excellence in software engineering and innovation.
+- 🔭 I am a dedicated computer science engineer with a fervent passion for exploring new technologies. Currently, I work as a software engineer for Red Hat, where I've had and continue to have the chance to pitch in on various open-source projects across different communities like [Kiegroup](https://github.com/kiegroup), [Opendatahub](https://github.com/opendatahub-io), [Kubeflow](https://github.com/kubeflow), and lately [Hyperfoil](https://github.com/Hyperfoil). Recently, I've been shifting my attention towards exploring fresh topics concerning the performance of projects, especially those running on the JVM.
 
-- :bulb: Creator of [**kiegroup/git-backporting**](https://github.com/kiegroup/git-backporting), a fully configurable command line tool (and GitHub action) that provides capabilities to backport pull requests or merge requests in an automated way.
+- :bulb: Creator of [**kiegroup/git-backporting**](https://github.com/kiegroup/git-backporting), a fully configurable command line tool (and GitHub action) that provides capabilities to backport pull requests or merge requests in an automated way on different Git platforms.
 
 - :zap: In my free time, I love playing sports and pursue some personal projects.
 
