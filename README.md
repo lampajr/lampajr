@@ -9,7 +9,7 @@
     <a href="https://dev.to/lampajr">
       <img src="https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to Badge"/>
     </a>
-    <a href="https://twitter.com/lampajr95">
+    <a href="https://x.com/lampajr_">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
