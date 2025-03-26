@@ -20,7 +20,9 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I am a dedicated computer science engineer with a fervent passion for exploring new technologies. Currently, I work as a software engineer for Red Hat, where I've had and continue to have the chance to pitch in on various open-source projects across different communities like [Kiegroup](https://github.com/kiegroup), [Opendatahub](https://github.com/opendatahub-io), [Kubeflow](https://github.com/kubeflow), and lately [Hyperfoil](https://github.com/Hyperfoil). Recently, I've been shifting my attention towards exploring fresh topics concerning the performance of projects, especially those running on the JVM.
+- 🔭 I am a dedicated computer science engineer with a fervent passion for exploring new technologies. Currently, I work as a software engineer for Red Hat, where I've had and continue to have the chance to pitch in on various open-source projects across different communities like [Kiegroup](https://github.com/kiegroup), [Opendatahub](https://github.com/opendatahub-io), [Kubeflow](https://github.com/kubeflow), and lately [Hyperfoil](https://github.com/Hyperfoil). Recently, I've been shifting my attention towards exploring fresh topics concerning the performance of applications, especially around the JVM ecosystem.
+
+- :construction_worker: Lead maintainer of [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil), a Java microservice-oriented distributed benchmark framework, and [Horreum](https://github.com/Hyperfoil/Horreum), a general-purpose automated performance anomaly detection system.
 
 - :bulb: Creator of [**kiegroup/git-backporting**](https://github.com/kiegroup/git-backporting), a fully configurable command line tool (and GitHub action) that provides capabilities to backport pull requests or merge requests in an automated way on different Git platforms.
 
