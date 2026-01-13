@@ -20,13 +20,13 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I am a dedicated computer science engineer with a fervent passion for exploring new technologies. Currently, I work as a software engineer for Red Hat, where I've had and continue to have the chance to pitch in on various open-source projects across different communities like [Kiegroup](https://github.com/kiegroup), [Opendatahub](https://github.com/opendatahub-io), [Kubeflow](https://github.com/kubeflow), and lately [Hyperfoil](https://github.com/Hyperfoil). Recently, I've been shifting my attention towards exploring fresh topics concerning the performance of applications, especially around the JVM ecosystem.
+- 🔭 I am a dedicated software engineer with a fervent passion for exploring new technologies. I worked as a software engineer for Red Hat, where I've had the chance to pitch in on various open-source projects across different communities like [Kiegroup](https://github.com/kiegroup), [Opendatahub](https://github.com/opendatahub-io), [Kubeflow](https://github.com/kubeflow), and lately [Hyperfoil](https://github.com/Hyperfoil).
 
-- :construction_worker: Lead maintainer of [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil), a Java microservice-oriented distributed benchmark framework, and [Horreum](https://github.com/Hyperfoil/Horreum), a general-purpose automated performance anomaly detection system.
+- :construction_worker: I was a lead maintainer of [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil), a Java microservice-oriented distributed benchmark framework, and [Horreum](https://github.com/Hyperfoil/Horreum), a general-purpose automated performance anomaly detection system and I also was one of the original creator of [Kubeflow/model-registry](https://github.com/kubeflow/model-registry).
 
 - :bulb: Creator of [**kiegroup/git-backporting**](https://github.com/kiegroup/git-backporting), a fully configurable command line tool (and GitHub action) that provides capabilities to backport pull requests or merge requests in an automated way on different Git platforms.
 
-- :zap: In my free time, I love playing sports and pursue some personal projects.
+- :zap: In my free time, I love playing sports ⚽ and reading manga 📚.
 
 - :mailbox: How to reach me: [![Personal GMail Badge](https://img.shields.io/badge/Personal-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:a.lamparelli95@gmail.com) [![Work GMail Badge](https://img.shields.io/badge/work-red?style=flat-square&logo=red-hat&logoColor=white)](mailto:andrea.lamparelli@redhat.com)
 
