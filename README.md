@@ -22,7 +22,7 @@
 
 - 🔭 I am a dedicated software engineer with a fervent passion for exploring new technologies. I worked as a software engineer for Red Hat, where I've had the chance to pitch in on various open-source projects across different communities like [Kiegroup](https://github.com/kiegroup), [Opendatahub](https://github.com/opendatahub-io), [Kubeflow](https://github.com/kubeflow), and lately [Hyperfoil](https://github.com/Hyperfoil).
 
-- :construction_worker: I was a lead maintainer of [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil), a Java microservice-oriented distributed benchmark framework, and [Horreum](https://github.com/Hyperfoil/Horreum), a general-purpose automated performance anomaly detection system and I also was one of the original creator of [Kubeflow/model-registry](https://github.com/kubeflow/model-registry).
+- :construction_worker: I was a lead maintainer of [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil), a Java microservice-oriented distributed benchmark framework, and [Horreum](https://github.com/Hyperfoil/Horreum), a general-purpose automated performance anomaly detection system; and I also was one of the original creator of [Kubeflow/model-registry](https://github.com/kubeflow/model-registry), a tool providing a way to index and manage models, versions, and ML artifacts metadata.
 
 - :bulb: Creator of [**kiegroup/git-backporting**](https://github.com/kiegroup/git-backporting), a fully configurable command line tool (and GitHub action) that provides capabilities to backport pull requests or merge requests in an automated way on different Git platforms.
 
